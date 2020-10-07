@@ -23,4 +23,4 @@ make
 # License
 This code is licensed under the Apache 2.0 license.
 
-If you need something different. Let me know.
+If you need something different, let me know.
