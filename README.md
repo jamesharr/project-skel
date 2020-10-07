@@ -3,8 +3,8 @@ Some project skeletons James uses to speed up getting started.
 
 ## Assumptions:
 * OSX/Linux with `make` installed.
-* VSCode as the editor
-* Appropriat
+* VSCode as the editor.
+* Whatever language-specific plugins.
 
 ## Usage
 ```sh
